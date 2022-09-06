@@ -1,0 +1,3 @@
+%{
+  "audit": {:hex, :audit, "0.1.7", "34012f7a25c9e08d9086054249415260d38e92b7df668ae6091c3cec6da9d093", [:mix], [], "hexpm", "93346934b21f009c98c4d030e2e2aee538754b95e34b1f40e02648c9de6a0ecf"},
+}
